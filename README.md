@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SurajYD
+- 👋 Hi, I’m @YDSuraj
 - 👀 I’m interested in AI & ML and Data Science
 - 🎓 I’m currently an IT Undergrad
 - 💻 I’m looking to collaborate on AI & ML projects
