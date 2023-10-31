@@ -1,9 +1,33 @@
-- 👋 Hi, I’m @YDSuraj
-- 👀 I’m interested in AI & ML and Data Science
-- 💻 I’m looking to collaborate on AI & ML projects
-- 📫 reach me at surajyd1308@gmail.com
+### Hey 👋🏽, I'm [Suraj]() 
+<!-- <br/>
 
-<!---
-SurajYD1308/SurajYD1308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.linkedin.com/in/ydsuraj/">
+  <img align="left" alt="Suraj's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+--> 
+
+
+Hi, I'm Suraj Yadav, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India. <br> <br> 
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:surajyd1308@gmail.com)](mailto:surajyd1308@gmail.com)
+<br />
+![](https://visitor-badge.glitch.me/badge?page_id=ydsuraj.ydsuraj)  <br> 
+<!--
+**ydsuraj/ydsuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--> 
+
+
+- Web Development - Data Science
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+![Shivay's github stats](https://github-readme-stats.vercel.app/api?username=ydsuraj&show_icons=true&hide_border=true)
