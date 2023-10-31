@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Suraj]() 
+### Hey 👋, I'm [Suraj]() 
 
 
 Hi, I'm Suraj Yadav, a Web Developer, Machine Learning Enthusiast and Open Source Developer📂 from India. <br> <br> 
