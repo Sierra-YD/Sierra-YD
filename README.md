@@ -11,7 +11,7 @@ Hi, I'm Suraj Yadav, a Web Developer, Machine Learning Enthusiast and Open Sourc
 --> 
 
 
-- Web Development - Data Science
+- Web Development - Data Analysis
 
 <br>
 
