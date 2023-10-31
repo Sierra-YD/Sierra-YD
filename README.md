@@ -1,13 +1,8 @@
 ### Hey 👋🏽, I'm [Suraj]() 
-<!-- <br/>
-
-<a href="https://www.linkedin.com/in/ydsuraj/">
-  <img align="left" alt="Suraj's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
---> 
 
 
-Hi, I'm Suraj Yadav, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India. <br> <br> 
+Hi, I'm Suraj Yadav, a Web Developer, Machine Learning Enthusiast and Open Source Developer📂 from India. <br> <br> 
+[![Linkedin Badge](http://img.shields.io/badge/-@ydsuraj-1ca0f1?style=social&logo=linkedin&logoColor=blue&link=https://linkedin.com/in/ydsuraj)](https://linkedin.com/in/ydsuraj)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:surajyd1308@gmail.com)](mailto:surajyd1308@gmail.com)
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=ydsuraj.ydsuraj)  <br> 
