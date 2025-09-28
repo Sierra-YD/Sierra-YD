@@ -1,7 +1,7 @@
 ### Hey 👋, I'm [Sierra]() 
 
 
-Hi, I'm Suraj Yadav, a Web Developer, Machine Learning Enthusiast and Open Source Developer📂 from India. <br> <br> 
+Hi, I'm a Web Developer, Machine Learning Enthusiast and Open Source Developer📂 from India. <br> <br> 
 [![Linkedin Badge](http://img.shields.io/badge/-@surajyd-1ca0f1?style=social&logo=linkedin&logoColor=blue&link=https://linkedin.com/in/surajyd)](https://linkedin.com/in/surajyd)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:surajyd1308@gmail.com)](mailto:surajyd1308@gmail.com)
 <br />
