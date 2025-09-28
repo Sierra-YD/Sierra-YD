@@ -35,4 +35,4 @@ Hi, I'm a Web Developer, Machine Learning Enthusiast and Open Source DeveloperðŸ
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 </p>
 
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=suraj-yd&show_icons=true&hide_border=true)
+![Sierra's github stats](https://github-readme-stats.vercel.app/api?username=suraj-yd&show_icons=true&hide_border=true)
