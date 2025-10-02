@@ -10,7 +10,7 @@ Hi, I'm a Web Developer, Machine Learning Enthusiast and Open Source DeveloperðŸ
 --> 
 
 
-- Web Development - Data Analysis
+- Full Stack Developer
 
 <br>
 
