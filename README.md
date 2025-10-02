@@ -2,11 +2,11 @@
 
 
 Hi, I'm a Web Developer, Machine Learning Enthusiast and Open Source Developer📂 from India. <br> <br> 
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:surajyd1308@gmail.com)](mailto:surajyd1308@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=blue&link=mailto:sierraxd@yahoo.com)](mailto:sierraxd@yahoo.com)
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=surajyd.surajyd)  <br> 
 <!--
-**surajyd/surajyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sierraxd/sierraxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
 
@@ -34,4 +34,4 @@ Hi, I'm a Web Developer, Machine Learning Enthusiast and Open Source Developer�
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 </p>
 
-![Sierra's github stats](https://github-readme-stats.vercel.app/api?username=sierra-yd&show_icons=true&hide_border=true)
+![Sierra's github stats](https://github-readme-stats.vercel.app/api?username=sierraxd&show_icons=true&hide_border=true)
