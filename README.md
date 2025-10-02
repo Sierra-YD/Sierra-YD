@@ -2,9 +2,9 @@
 
 
 Hi, I'm a Web Developer, Machine Learning Enthusiast and Open Source Developer📂 from India. <br> <br> 
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=purple&link=mailto:sierraxd@yahoo.com)](mailto:sierraxd@yahoo.com)
+[![Gmail Badge](https://img.shields.io/badge/-Yahoo-c14438?style=social&logo=Gmail&logoColor=purple&link=mailto:sierraxd@yahoo.com)](mailto:sierraxd@yahoo.com)
 <br />
-![](https://visitor-badge.glitch.me/badge?page_id=surajyd.surajyd)  <br> 
+![](https://visitor-badge.glitch.me/badge?page_id=sierraxd.sierraxd)  <br> 
 <!--
 **sierraxd/sierraxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
